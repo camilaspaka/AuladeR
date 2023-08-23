@@ -1,5 +1,5 @@
-saudacao ="Oi"
+saudacao = "Oi"
 
 pessoa = "Camila"
 
-cat(saudacao,","pessoa,"!")
+cat(saudacao,",",pessoa,"!")
