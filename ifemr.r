@@ -6,8 +6,6 @@ saudacao = readline(prompt = “Indique a saudação. Exemplos: Oi, E aí, Olá,
 
 pessoa = readline(prompt = “Indique o nome da pessoa cumprimentada: “);
 
-
-
 #imprimindo o que o usuário escreveu com novas condições
 
 if (pessoa == “Alan Dantas”){
