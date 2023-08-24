@@ -1,0 +1,9 @@
+#Variável saudação
+
+saudacao = “Ola”
+
+#Variável pessoa a ser saudada
+
+pessoa = “mundo”
+
+cat(saudacao,“,”,pessoa,“!”)
